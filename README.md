@@ -1,6 +1,6 @@
 # react-native-cordova-webview
 
-**React Native Cordova WebView** is Cordova Web View component for React Native. The main reason to use this component instead of react-native-webview (https://github.com/react-native-community/react-native-webview) is to use Cordova plugins (https://cordova.apache.org/plugins/).
+**React Native Cordova WebView** is Cordova Web View component for React Native. The main reason to use this component instead of react-native-webview ](https://github.com/react-native-community/react-native-webview) is to use [Cordova plugins](https://cordova.apache.org/plugins/).
 
 ## Features
 
