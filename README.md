@@ -18,10 +18,10 @@ Import the `CordovaWebView` component from `react-native-cordova-webview` and us
 
 ```tsx
 import React from 'react';
-import { CordoWebView } from 'react-native-cordova-webview';
+import { CordovaWebView } from 'react-native-cordova-webview';
 
 // ...
 const MyWebComponent = () => {
-  return <CordoWebView source={{ uri: 'https://reactnative.dev/' }} style={{ flex: 1 }} />;
+  return <CordovaWebView source={{ uri: 'https://reactnative.dev/' }} style={{ flex: 1 }} />;
 }
 ```
